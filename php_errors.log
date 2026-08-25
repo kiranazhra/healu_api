@@ -1,0 +1,10 @@
+[25-Jun-2026 01:56:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'password' doesn't have a default value in D:\laragon\www\healu_api\tambah_dokter.php:39
+Stack trace:
+#0 D:\laragon\www\healu_api\tambah_dokter.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\healu_api\tambah_dokter.php on line 39
+[25-Jun-2026 02:05:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'password' doesn't have a default value in D:\laragon\www\healu_api\tambah_dokter.php:39
+Stack trace:
+#0 D:\laragon\www\healu_api\tambah_dokter.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\healu_api\tambah_dokter.php on line 39
